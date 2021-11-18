@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+yfinance = "*"
+ta = "*"
+tensorflow = "*"
+sklearn = "*"
+html5lib = "*"
+bs4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
