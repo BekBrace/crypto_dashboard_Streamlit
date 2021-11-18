@@ -1,6 +1,8 @@
 """
-Cryptocurency Daily Prices Webapp
-- Using streamlit and Yahoo Finance
+Cryptocurency Daily Prices 
+Dashboard using streamlit and Yahoo Finance libraries
+@Bek Brace 
+Almost the same thing we did with stock prices in previous tutorial
 """
 
 import yfinance as yf  # Yahoo finance to get stock data
